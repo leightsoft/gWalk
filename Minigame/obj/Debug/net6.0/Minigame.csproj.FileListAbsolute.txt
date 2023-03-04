@@ -1,0 +1,15 @@
+C:\Users\i\source\repos\Minigame\Minigame\bin\Debug\net6.0\Minigame.exe
+C:\Users\i\source\repos\Minigame\Minigame\bin\Debug\net6.0\Minigame.deps.json
+C:\Users\i\source\repos\Minigame\Minigame\bin\Debug\net6.0\Minigame.runtimeconfig.json
+C:\Users\i\source\repos\Minigame\Minigame\bin\Debug\net6.0\Minigame.dll
+C:\Users\i\source\repos\Minigame\Minigame\bin\Debug\net6.0\Minigame.pdb
+C:\Users\i\source\repos\Minigame\Minigame\obj\Debug\net6.0\Minigame.csproj.AssemblyReference.cache
+C:\Users\i\source\repos\Minigame\Minigame\obj\Debug\net6.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i\source\repos\Minigame\Minigame\obj\Debug\net6.0\Minigame.AssemblyInfoInputs.cache
+C:\Users\i\source\repos\Minigame\Minigame\obj\Debug\net6.0\Minigame.AssemblyInfo.cs
+C:\Users\i\source\repos\Minigame\Minigame\obj\Debug\net6.0\Minigame.csproj.CoreCompileInputs.cache
+C:\Users\i\source\repos\Minigame\Minigame\obj\Debug\net6.0\Minigame.dll
+C:\Users\i\source\repos\Minigame\Minigame\obj\Debug\net6.0\refint\Minigame.dll
+C:\Users\i\source\repos\Minigame\Minigame\obj\Debug\net6.0\Minigame.pdb
+C:\Users\i\source\repos\Minigame\Minigame\obj\Debug\net6.0\Minigame.genruntimeconfig.cache
+C:\Users\i\source\repos\Minigame\Minigame\obj\Debug\net6.0\ref\Minigame.dll
